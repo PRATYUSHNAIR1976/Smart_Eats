@@ -1,4 +1,5 @@
-# food_app_flutter_zone
+Smart _Eats
+
 
 A new Flutter project.
 
